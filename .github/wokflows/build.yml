@@ -1,4 +1,4 @@
-name: go.yml
+name: build.yml
 on:
   pull_request:
     branches: "main"
