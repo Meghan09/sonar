@@ -20,7 +20,7 @@ jobs:
          projectBaseDir: .
          args: >
           -Dsonar.organization=meghan09
-          -Dsonar.projectKey=Meghan09_Sonar_Cloud_Test_Repo
+          -Dsonar.projectKey=Meghan09_sonar
   Build:
     runs-on: ubuntu-latest
     steps:
